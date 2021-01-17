@@ -28,8 +28,4 @@
 
 <br />
 
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact)](https://github.com/ArthurPV)
-
-</div>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPV&theme=dark&show_icons=true&layout=compact)
