@@ -28,13 +28,13 @@
 
 <br />
 
-<div align="left">
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact)](https://github.com/ArthurPV)
 
 </div>
 
-<div align="right">
+<div>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPV&theme=default&show_icons=true&layout=compact)
 
