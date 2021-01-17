@@ -2,7 +2,7 @@
 
 <br />
 
-### Language and Tools:
+### Language and Tools
 
 <br />
 
@@ -29,3 +29,5 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact)](https://github.com/ArthurPV)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
