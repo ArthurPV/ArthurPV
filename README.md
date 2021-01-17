@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact)](https://github.com/ArthurPV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact&layout=compact)](https://github.com/ArthurPV)
 
 </div>
 
