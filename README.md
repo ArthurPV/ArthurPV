@@ -30,12 +30,12 @@
 
 <div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact&layout=compact)](https://github.com/ArthurPV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&layout=compact)](https://github.com/ArthurPV)
 
 </div>
 
 <div align="right">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPV&theme=default&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPV&theme=default&show_icons=true&layout=compact)
 
 </div>
