@@ -1,6 +1,6 @@
 # Hi there, I'm Arthur Pontier-Valois
 
-My name is Arthur Pontier-Valois, I am currently a student in computer engineering. Moreover, I loke Open Source, low level programming and the Linux operating system. Do not hesitate to contact me:
+My name is Arthur Pontier-Valois, I am currently a student in computer engineering. Moreover, I love Open Source, low level programming and the Linux operating system. Do not hesitate to contact me:
 
 ![LinkedIn](https://img.shields.io/badge/-ArthurPV-d7ddd9?color=282d39&label=%20&logo=LinkedIn&logoColor=d7ddd9&link=https://www.linkedin.com/in/arthur-pontier-valois-380983251/&style=for-the-badge)
 ![Mail](https://img.shields.io/badge/-ArthurPV-d7ddd9?color=282d39&label=%20&logo=GMail&logoColor=d7ddd9&link=mailto:arthurpontiervalois@gmail.com&style=for-the-badge)
