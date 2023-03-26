@@ -56,7 +56,7 @@ My name is Arthur Pontier-Valois, I am currently a student in computer engineeri
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurPV&repo=lily&show_icons=true&title_color=d7ddd9&text_color=d7ddd9&icon_color=d7ddd9&border_color=282d39&bg_color=282d39&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurPV&repo=lily&show_icons=true&title_color=d7ddd9&text_color=d7ddd9&icon_color=d7ddd9&border_color=282d39&bg_color=282d39&hide_border=true&border_radius=10)](https://github.com/ArthurPV/lily)
 
 <br>
 
