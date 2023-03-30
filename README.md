@@ -66,4 +66,4 @@ My name is Arthur Pontier-Valois, I am currently a student in computer engineeri
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPV&show_icons=true&title_color=d7ddd9&text_color=d7ddd9&icon_color=d7ddd9&border_color=282d39&bg_color=282d39&hide_border=true&border_radius=10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&hide_progress=false&layout=compact&show_icons=true&title_color=d7ddd9&text_color=d7ddd9&icon_color=d7ddd9&border_color=282d39&bg_color=282d39&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPV&hide_progress=false&layout=compact&show_icons=true&title_color=d7ddd9&text_color=d7ddd9&icon_color=d7ddd9&border_color=282d39&bg_color=282d39&hide_border=true&border_radius=10&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
