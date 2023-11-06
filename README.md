@@ -15,6 +15,7 @@ My name is Arthur Pontier-Valois, I am currently a student in computer engineeri
 
 ![C](https://img.shields.io/badge/---?color=282d39&label=%20&logo=c&logoColor=d7ddd9&style=for-the-badge)
 ![C++](https://img.shields.io/badge/---?color=282d39&label=%20&logo=cplusplus&logoColor=d7ddd9&style=for-the-badge)
+![LLVM](https://img.shields.io/badge/---?color=282d39&label=%20&logo=LLVM&logoColor=d7ddd9&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/---?color=282d39&label=%20&logo=rust&logoColor=d7ddd9&style=for-the-badge)
 ![JS](https://img.shields.io/badge/---?color=282d39&label=%20&logo=JavaScript&logoColor=d7ddd9&style=for-the-badge)
 ![TS](https://img.shields.io/badge/---?color=282d39&label=%20&logo=TypeScript&logoColor=d7ddd9&style=for-the-badge)
